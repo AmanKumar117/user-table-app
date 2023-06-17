@@ -4,7 +4,7 @@ import Table from './Table';
 const App = () => {
   return (
     <div>
-      <h1>User Table</h1>
+      <h1 style={{textAlign : "center"}}>User Table</h1>
       <Table />
     </div>
   );
